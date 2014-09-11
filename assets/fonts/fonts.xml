@@ -28,6 +28,7 @@
             <name>sans-serif-thin</name>
         </nameset>
         <fileset>
+            <file>AndroidClock.ttf</file>
             <file>Koruri-Light.ttf</file>
         </fileset>
     </family>
@@ -37,6 +38,7 @@
             <name>sans-serif-condensed</name>
         </nameset>
         <fileset>
+            <file>AndroidClock.ttf</file>
             <file>Koruri-Regular.ttf</file>
             <file>Koruri-Bold.ttf</file>
         </fileset>
