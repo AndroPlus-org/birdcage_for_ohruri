@@ -43,9 +43,10 @@
             <file>Koruri-Bold.ttf</file>
         </fileset>
     </family>
-</familyset>
-<family>
+    <family>
         <fileset>
             <file lang="ja">Ohruri.ttf</file>
         </fileset>
     </family>
+</familyset>
+
