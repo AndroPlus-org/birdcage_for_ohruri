@@ -37,19 +37,19 @@
         <entry>
           <key>
             <ExternalProjectPojo>
-              <option name="name" value="birdcage_for_koruri" />
+              <option name="name" value="birdcage_for_ohruri" />
               <option name="path" value="$PROJECT_DIR$" />
             </ExternalProjectPojo>
           </key>
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="birdcage_for_koruri" />
-                <option name="path" value="$PROJECT_DIR$" />
-              </ExternalProjectPojo>
-              <ExternalProjectPojo>
                 <option name="name" value=":theme" />
                 <option name="path" value="$PROJECT_DIR$/theme" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="birdcage_for_ohruri" />
+                <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
             </list>
           </value>
@@ -452,7 +452,6 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4261306717433" />
         <entry key="$PROJECT_DIR$/../twittnuker" value="8429860189081" />
       </map>
     </option>
@@ -499,7 +498,7 @@
                   </entry>
                 </map>
               </option>
-              <option name="name" value="birdcage_for_koruri" />
+              <option name="name" value="theme" />
               <option name="projectBuildClasspath">
                 <list>
                   <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/ant-1.9.3.jar" />
@@ -596,9 +595,16 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -619,6 +625,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
